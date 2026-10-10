@@ -21,6 +21,24 @@ This project focuses on analyzing air quality data and predicting the Air Qualit
 
 ## Dataset
 The project uses air quality data containing pollutant measurements. Dataset sources, date ranges, and columns will be documented here.
+# Air Quality AQI Prediction 🌬️📊
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+
+An end-to-end Machine Learning pipeline to predict Air Quality Index (AQI) based on environmental parameters and pollutant levels.
+---
+## 📌 Project Overview
+Air pollution is a major environmental issue affecting public health. This project focuses on building predictive models to accurately forecast AQI levels 
+using historical air quality datasets. The goal is to provide reliable predictions to help monitor and mitigate air pollution hazards.
+
+Key Highlights:
+- Modular Python architecture (`data_cleaning`, `feature_engineering`, `model_training`, etc.).
+- Complete ML workflow from raw data processing to model evaluation.
+- Clean pipeline design for easy execution and deployment.
+
+---
+## 📁 Repository Structure
 
 ## Project Structure
 - `data/` — datasets
