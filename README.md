@@ -1,4 +1,4 @@
-# Air Quality AQI Prediction
+# Air Quality AQI Prediction 🌬️📊
 
 ## 📌 Project Overview
 Air pollution is a major environmental issue affecting public health. This project focuses on building predictive models to accurately forecast AQI levels 
@@ -22,8 +22,7 @@ using historical air quality datasets. The goal is to provide reliable predictio
 
 ## Dataset
 The project uses air quality data containing pollutant measurements. Dataset sources, date ranges, and columns will be documented here.
-# Air Quality AQI Prediction 🌬️📊
-
+---- 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
